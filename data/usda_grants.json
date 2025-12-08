@@ -1,0 +1,309 @@
+[
+    {
+      "program_id": "FSA-OL-2025",
+      "program_name": "Farm Operating Loans",
+      "agency": "USDA Farm Service Agency (FSA)",
+      "program_type": "Loan",
+      "assistance_listing": "10.406",
+      "summary": "Provides direct and guaranteed loans to help farmers and ranchers pay for essential operating expenses, including seed, livestock, feed, fertilizer, equipment, and other inputs necessary for day-to-day operations.",
+      "eligibility": [
+        "Family farmers or ranchers",
+        "Beginning farmers with less than 10 years experience",
+        "Socially disadvantaged and veteran farmers",
+        "Applicants must demonstrate ability to repay",
+        "US citizen/non-citizen national/qualified alien",
+        "Satisfactory credit history",
+        "Unable to obtain commercial credit"
+      ],
+      "funding_amount": "Direct: up to $400,000; Guaranteed: up to $2,251,000",
+      "application_method": "Apply at local FSA county office or online via FSA OLA system",
+      "year_round_application": true,
+      "application_deadlines": "Year-round; processing 30-60 days",
+      "required_documents": [
+        "Farm operating plan",
+        "Cash flow statement", 
+        "Balance sheet",
+        "Tax returns (3 years)",
+        "Production records"
+      ],
+      "contact_info": "FSA County Office Locator: https://offices.sc.egov.usda.gov/locator/app",
+      "keywords": ["FSA", "operating loan", "working capital", "beginning farmer"],
+      "example_use_cases": [
+        "Purchase seeds/fertilizer for planting",
+        "Livestock feed/veterinary care", 
+        "Short-term operational expenses",
+        "Equipment/fuel/chemicals"
+      ],
+      "limitations": [
+        "Not for land purchase",
+        "Subject to lending limits",
+        "Repayment ability required",
+        "Family farm operations only"
+      ],
+      "official_url": "https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/farm-operating-loans",
+      "metadata": {"category": "loans", "targets_beginning_farmers": true}
+    },
+    {
+      "program_id": "RHS-FHL-2025",
+      "program_name": "Farm Labor Housing Loans & Grants",
+      "agency": "USDA Rural Housing Service (RHS)",
+      "program_type": "Loan/Grant",
+      "assistance_listing": "10.405",
+      "summary": "Finances construction, improvement, or purchase of housing for domestic farm laborers in rural areas.",
+      "eligibility": [
+        "Farmworker associations/family farm corporations",
+        "Non-profits serving farmworkers",
+        "Rural areas (pop <20,000)",
+        "US citizens/permanent residents",
+        "No discrimination in occupancy"
+      ],
+      "funding_amount": "Loans: $250K-$1.5M; Grants: Varies by project",
+      "application_method": "Submit to local RHS office with site plans",
+      "year_round_application": true,
+      "application_deadlines": "Continuous; 90-day processing",
+      "required_documents": [
+        "Site plans/architectural drawings",
+        "Environmental review",
+        "Tenant selection plan",
+        "Financial statements"
+      ],
+      "contact_info": "Local USDA Rural Development office",
+      "keywords": ["farm labor housing", "RHS", "rural housing", "farmworkers"],
+      "example_use_cases": [
+        "New construction of labor housing",
+        "Rehabilitation of existing units",
+        "Purchase/improvement of housing"
+      ],
+      "limitations": [
+        "Rural areas only",
+        "Domestic farm laborers only",
+        "Must meet housing standards"
+      ],
+      "official_url": "https://www.rd.usda.gov/programs-services/multi-family-housing-programs/farm-labor",
+      "metadata": {"category": "housing assistance"}
+    },
+    {
+      "program_id": "FSA-BFR-2025",
+      "program_name": "Beginning Farmers and Ranchers Loans",
+      "agency": "USDA Farm Service Agency (FSA)",
+      "program_type": "Loan",
+      "assistance_listing": "10.102/10.104",
+      "summary": "Targeted direct/guaranteed loans for new farmers unable to secure commercial financing.",
+      "eligibility": [
+        "Less than 10 years farming experience",
+        "Less than 30% median farm size in county",
+        "3+ years business management experience",
+        "Substantial farm participation",
+        "Unable to get commercial credit"
+      ],
+      "funding_amount": "Ownership: up to $600K; Operating: up to $400K",
+      "application_method": "Local FSA office or farmers.gov",
+      "year_round_application": true,
+      "application_deadlines": "Continuous; funds reserved until April 1 annually",
+      "required_documents": [
+        "Business/farm plan",
+        "Financial statements",
+        "Credit history",
+        "Collateral appraisal"
+      ],
+      "contact_info": "FSA County Office Locator",
+      "keywords": ["beginning farmer", "new rancher", "FSA loans"],
+      "example_use_cases": [
+        "Land purchase/down payment",
+        "Livestock/equipment purchase",
+        "Operating expenses startup"
+      ],
+      "limitations": [
+        "Experience/time-in-business limits",
+        "Size thresholds by county",
+        "Must show management skills"
+      ],
+      "official_url": "https://www.fsa.usda.gov/programs-and-services/beginning-farmers-and-ranchers",
+      "metadata": {"category": "beginning farmers"}
+    },
+    {
+      "program_id": "RMA-CLIP-2025",
+      "program_name": "Crop and Livestock Insurance Programs",
+      "agency": "USDA Risk Management Agency (RMA)",
+      "program_type": "Insurance",
+      "assistance_listing": "N/A",
+      "summary": "Federal crop/livestock revenue protection against weather, disease, market losses.",
+      "eligibility": [
+        "Producers in insured counties",
+        "Follow good farming practices",
+        "Meet acreage/revenue minimums",
+        "Purchase through approved agents"
+      ],
+      "funding_amount": "Premium subsidies 50-75%; indemnities vary by loss",
+      "application_method": "Through crop insurance agents",
+      "year_round_application": false,
+      "application_deadlines": "Varies by crop/livestock/county (sales closing dates)",
+      "required_documents": [
+        "Historical yield data",
+        "Acreage reports",
+        "Production records"
+      ],
+      "contact_info": "RMA Agent Locator or local agent",
+      "keywords": ["crop insurance", "livestock insurance", "RMA", "revenue protection"],
+      "example_use_cases": [
+        "Whole Farm Revenue Protection (WFRP)",
+        "Livestock Risk Protection (LRP)",
+        "Micro Farm program"
+      ],
+      "limitations": [
+        "County-specific availability",
+        "Sales closing deadlines",
+        "Good farming practices required"
+      ],
+      "official_url": "https://www.rma.usda.gov/",
+      "metadata": {"category": "insurance"}
+    },
+    {
+      "program_id": "AMS-FSMIP-2025",
+      "program_name": "Federal State Marketing Improvement Program (FSMIP)",
+      "agency": "USDA Agricultural Marketing Service (AMS)",
+      "program_type": "Grant",
+      "assistance_listing": "10.169",
+      "summary": "Funds state-led projects exploring marketing opportunities benefiting multiple producers.",
+      "eligibility": [
+        "State departments of agriculture",
+        "Projects benefit multiple producers",
+        "1:1 cash/in-kind match required",
+        "State/regional/national impact"
+      ],
+      "funding_amount": "$50K-$250K per project",
+      "application_method": "State-specific RFR process",
+      "year_round_application": false,
+      "application_deadlines": "Varies by state (typically spring)",
+      "required_documents": [
+        "Project proposal",
+        "Budget/match documentation",
+        "Measurable outcomes plan"
+      ],
+      "contact_info": "State Dept of Ag FSMIP coordinator",
+      "keywords": ["FSMIP", "marketing research", "state ag grants"],
+      "example_use_cases": [
+        "Market research new products",
+        "Transportation/distribution studies",
+        "Pilot projects scalable regionally"
+      ],
+      "limitations": [
+        "State agencies only",
+        "Must benefit multiple producers",
+        "1:1 matching funds required"
+      ],
+      "official_url": "https://www.ams.usda.gov/services/grants/fsmip",
+      "metadata": {"category": "marketing"}
+    },
+    {
+      "program_id": "AMS-SCBGP-2025",
+      "program_name": "Specialty Crop Block Grant Program (SCBGP)",
+      "agency": "USDA Agricultural Marketing Service (AMS)",
+      "program_type": "Block Grant",
+      "assistance_listing": "10.170",
+      "summary": "State-administered grants enhancing competitiveness of fruits, vegetables, nuts, horticulture.",
+      "eligibility": [
+        "State departments of agriculture only",
+        "Specialty crop focus (non-commodity)",
+        "Enhance industry competitiveness",
+        "Measurable outcomes required"
+      ],
+      "funding_amount": "State-allocated from $85M+ national pool",
+      "application_method": "Apply through state Dept of Ag",
+      "year_round_application": false,
+      "application_deadlines": "State-specific; federal deadline ~March",
+      "required_documents": [
+        "State block grant plan",
+        "Project proposals",
+        "Performance metrics/ROI"
+      ],
+      "contact_info": "State SCBGP coordinator",
+      "keywords": ["SCBGP", "specialty crops", "fruits vegetables nuts"],
+      "example_use_cases": [
+        "Pest management research",
+        "Marketing campaigns",
+        "Food safety infrastructure"
+      ],
+      "limitations": [
+        "State agencies only",
+        "Specialty crops definition",
+        "Competitiveness enhancement only"
+      ],
+      "official_url": "https://www.ams.usda.gov/services/grants/scbgp",
+      "metadata": {"category": "specialty crops"}
+    },
+    {
+      "program_id": "AMS-FMPP-2025",
+      "program_name": "Farmers Market Promotion Program (FMPP)",
+      "agency": "USDA Agricultural Marketing Service (AMS)",
+      "program_type": "Grant",
+      "assistance_listing": "10.172",
+      "summary": "Supports direct-to-consumer market development (farmers markets, CSAs, agritourism, online).",
+      "eligibility": [
+        "Farmers markets/CSAs/producer networks",
+        "Local governments/non-profits",
+        "25% match required",
+        "Domestic entities only"
+      ],
+      "funding_amount": "$50K-$500K",
+      "application_method": "AMS grants.gov portal",
+      "year_round_application": false,
+      "application_deadlines": "June 27, 2025 (FY2025)",
+      "required_documents": [
+        "Project budget with 25% match",
+        "Outreach/technical assistance plan",
+        "Market expansion strategy"
+      ],
+      "contact_info": "FMLFPPgrants@usda.gov",
+      "keywords": ["FMPP", "farmers market", "direct marketing", "CSA"],
+      "example_use_cases": [
+        "Online marketplace development",
+        "Market manager training",
+        "CSA expansion programs"
+      ],
+      "limitations": [
+        "25% match required",
+        "Direct-to-consumer focus",
+        "Domestic entities only"
+      ],
+      "official_url": "https://www.ams.usda.gov/services/grants/fmpp",
+      "metadata": {"category": "direct marketing"}
+    },
+    {
+      "program_id": "FSA-OCCSP-2025",
+      "program_name": "Organic Certification Cost Share Program (OCCSP)",
+      "agency": "USDA Farm Service Agency (FSA)",
+      "program_type": "Cost Share",
+      "assistance_listing": "10.122",
+      "summary": "Reimburses 75% of organic certification costs (max $750 per scope) for producers/handlers.",
+      "eligibility": [
+        "NOP-certified organic producers/handlers",
+        "Paid fees to USDA-accredited certifier",
+        "Crops/livestock/wild crops/processing scopes"
+      ],
+      "funding_amount": "75% reimbursement, max $750/scope",
+      "application_method": "FSA county office or state ag dept",
+      "year_round_application": false,
+      "application_deadlines": "October 31 annually",
+      "required_documents": [
+        "Proof of certification payment",
+        "Certifier invoice/receipt",
+        "NOP certificate copy"
+      ],
+      "contact_info": "Local FSA office or state organic program",
+      "keywords": ["organic certification", "OCCSP", "cost share", "NOP"],
+      "example_use_cases": [
+        "Annual certification renewal fees",
+        "Inspection/travel expenses",
+        "Organic system plan updates"
+      ],
+      "limitations": [
+        "$750 maximum per certification scope",
+        "Must be NOP certified",
+        "Annual deadline"
+      ],
+      "official_url": "https://www.fsa.usda.gov/programs-and-services/organic-certification-cost-share",
+      "metadata": {"category": "organic"}
+    }
+  ]
+  

@@ -1,0 +1,83 @@
+[
+  {
+    "program_id": "FSA-OL-2025",
+    "program_name": "Farm Operating Loans",
+    "agency": "USDA Farm Service Agency (FSA)",
+    "assistance_listing": "10.406",
+    "official_url": "https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/farm-operating-loans",
+    "metadata": {
+      "category": "loans",
+      "targets_beginning_farmers": true
+    }
+  },
+  {
+    "program_id": "RHS-FHL-2025",
+    "program_name": "Farm Labor Housing Loans & Grants",
+    "agency": "USDA Rural Housing Service (RHS)",
+    "assistance_listing": "10.405",
+    "official_url": "https://www.rd.usda.gov/programs-services/multi-family-housing-programs/farm-labor",
+    "metadata": {
+      "category": "housing assistance"
+    }
+  },
+  {
+    "program_id": "FSA-BFR-2025",
+    "program_name": "Beginning Farmers and Ranchers Loans",
+    "agency": "USDA Farm Service Agency (FSA)",
+    "assistance_listing": "10.102/10.104",
+    "official_url": "https://www.fsa.usda.gov/programs-and-services/beginning-farmers-and-ranchers",
+    "metadata": {
+      "category": "beginning farmers"
+    }
+  },
+  {
+    "program_id": "RMA-CLIP-2025",
+    "program_name": "Crop and Livestock Insurance Programs",
+    "agency": "USDA Risk Management Agency (RMA)",
+    "assistance_listing": "N/A",
+    "official_url": "https://www.rma.usda.gov/",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "program_id": "AMS-FSMIP-2025",
+    "program_name": "Federal State Marketing Improvement Program (FSMIP)",
+    "agency": "USDA Agricultural Marketing Service (AMS)",
+    "assistance_listing": "10.169",
+    "official_url": "https://www.ams.usda.gov/services/grants/fsmip",
+    "metadata": {
+      "category": "marketing"
+    }
+  },
+  {
+    "program_id": "AMS-SCBGP-2025",
+    "program_name": "Specialty Crop Block Grant Program (SCBGP)",
+    "agency": "USDA Agricultural Marketing Service (AMS)",
+    "assistance_listing": "10.170",
+    "official_url": "https://www.ams.usda.gov/services/grants/scbgp",
+    "metadata": {
+      "category": "specialty crops"
+    }
+  },
+  {
+    "program_id": "AMS-FMPP-2025",
+    "program_name": "Farmers Market Promotion Program (FMPP)",
+    "agency": "USDA Agricultural Marketing Service (AMS)",
+    "assistance_listing": "10.172",
+    "official_url": "https://www.ams.usda.gov/services/grants/fmpp",
+    "metadata": {
+      "category": "direct marketing"
+    }
+  },
+  {
+    "program_id": "FSA-OCCSP-2025",
+    "program_name": "Organic Certification Cost Share Program (OCCSP)",
+    "agency": "USDA Farm Service Agency (FSA)",
+    "assistance_listing": "10.122",
+    "official_url": "https://www.fsa.usda.gov/programs-and-services/organic-certification-cost-share",
+    "metadata": {
+      "category": "organic"
+    }
+  }
+]
