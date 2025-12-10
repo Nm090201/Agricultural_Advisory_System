@@ -9,4 +9,4 @@ duckduckgo-search
 streamlit
 faiss-cpu
 numpy
-
+plotly
